@@ -2,36 +2,36 @@
 
 Please view [README_EN](https://github.com/boyan01/flutter-tetris/blob/master/README_EN.md)
 
-# Flutter俄罗斯方块
+# Flutter
 <a href="https://github.com/Solido/awesome-flutter"><img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square" /></a> [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ---
 
-使用Flutter开发的俄罗斯方块游戏。支持 **Android**, **iOS**, **Windows**, **mac**, **Linux** 以及 **web**.
+Flutter, **Android**, **iOS**, **Windows**, **mac**, **Linux**, **web**.
 
-参考来源于 [vue-tetris](https://github.com/Binaryify/vue-tetris) 。
+[vue-tetris](https://github.com/Binaryify/vue-tetris) 。
 
-## 如何开始
+## 
 
-* 自行编译
+* 
 
-  安装[Flutter](https://flutter.io/docs/get-started/install)
+  [Flutter](https://flutter.io/docs/get-started/install)
 
-  在命令行输入：`flutter run --profile`
+  ：`flutter run --profile`
 
-* 前往[Release](https://github.com/boyan01/flutter-tetris/releases) 下载 Apk/macOS/Windows 可执行文件。
+* [Release](https://github.com/boyan01/flutter-tetris/releases) Apk/macOS/Windows。
 
-* 或者前往 [https://boyan01.github.io/flutter-tetris](https://boyan01.github.io/flutter-tetris/#/) 体验 Web 版本
+*  [https://boyan01.github.io/flutter-tetris](https://boyan01.github.io/flutter-tetris/#/) Web
 
-## 效果预览
+## 
 
-![效果预览](./_preview/game_gif.gif)
-
-支持横屏模式
-
-![横屏](./_preview/screen_land.jpg)
+![](./_preview/game_gif.gif)
 
 
-## 其他
+
+![](./_preview/screen_land.jpg)
+
+
+## 
 
 MIT with 996 License
